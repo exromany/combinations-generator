@@ -1,0 +1,29 @@
+{
+  "name": "combinations-generator",
+  "version": "1.0.0",
+  "description": "find combinations uses es6 generators",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --harmony"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/exromany/combinations-generator"
+  },
+  "keywords": [
+    "combination",
+    "combo",
+    "array",
+    "generator"
+  ],
+  "author": "exromany",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/exromany/combinations-generator/issues"
+  },
+  "homepage": "https://github.com/exromany/combinations-generator",
+  "devDependencies": {
+    "mocha": "^2.1.0",
+    "should": "^4.4.4"
+  }
+}
