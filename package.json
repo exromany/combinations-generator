@@ -1,6 +1,6 @@
 {
   "name": "combinations-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "find combinations uses es6 generators",
   "main": "index.js",
   "scripts": {

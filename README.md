@@ -8,6 +8,8 @@ Return combinations in array uses es6 generators.
 npm install combinations-generator
 ```
 
+To use this package you must be running node 0.11 for generator support, and must run node with the `--harmony` flag.
+
 # Example
 
 ```javascript
